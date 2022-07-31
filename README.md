@@ -1,3 +1,5 @@
 # JavaScript SlotMachine
-Slot Machine from Free Code Camp
+
+Slot Machine Project from Free Code Camp
+
 Written in Javascript
