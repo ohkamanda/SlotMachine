@@ -1,2 +1,3 @@
-# SlotMachine
-JavaScript Slot Machine from Free Code Camp
+# JavaScript SlotMachine
+Slot Machine from Free Code Camp
+Written in Javascript
