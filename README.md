@@ -1,4 +1,4 @@
-# JavaScript SlotMachine
+# SlotMachine
 
 Slot Machine Project from Free Code Camp
 
